@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Hit the Quan",
+  "base_artist": "iLoveMemphis",
+  "createdAt": "2026-02-09T16:50:48.056516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hit the Quan - Original Version",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/01_Hit_the_Quan_-_Original_Version_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hit the Quan (Original Version)",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/02_Hit_the_Quan_(Original_Version)_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hit the Quan",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/03_Hit_the_Quan_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "hit the quan",
+      "artist": "gingus",
+      "has_synced": true,
+      "path": "select/04_hit_the_quan_gingus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hit The Quan",
+      "artist": "ILoveMemphis",
+      "has_synced": true,
+      "path": "select/05_Hit_The_Quan_ILoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hit the Quan (Bad Royale Remix)",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/06_Hit_the_Quan_(Bad_Royale_Remix)_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hit the Quan (Official Video)",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/07_Hit_the_Quan_(Official_Video)_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hit the Quan (Throw the Flag Version)",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/08_Hit_the_Quan_(Throw_the_Flag_Version)_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "\"Hit the Quan\" #HTQ",
+      "artist": "@iHeartMemphis",
+      "has_synced": false,
+      "path": "select/09_Hit_the_Quan___HTQ_@iHeartMemphis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hit The Quan",
+      "artist": "Tha Dance Squad",
+      "has_synced": false,
+      "path": "select/10_Hit_The_Quan_Tha_Dance_Squad.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1. Hit the Quan",
+      "artist": "iLoveMemphis",
+      "has_synced": true,
+      "path": "select/11_1._Hit_the_Quan_iLoveMemphis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hit the Quan",
+      "artist": "RnB Classics",
+      "has_synced": true,
+      "path": "select/12_Hit_the_Quan_RnB_Classics.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "hit the quan (throw the flag version)",
+      "artist": "ilovememphis",
+      "has_synced": false,
+      "path": "select/13_hit_the_quan_(throw_the_flag_version)_ilovememphis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hit the Quan",
+      "artist": "iLoveMemphis",
+      "has_synced": false,
+      "path": "select/pl_01_Hit_the_Quan_iLoveMemphis.txt"
+    }
+  ]
+}
